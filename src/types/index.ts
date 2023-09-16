@@ -7,4 +7,5 @@ export interface BannerProps{
      buttonText : string,
      linkName: any,
      imageUrl: any
+     
 }
